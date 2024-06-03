@@ -29,7 +29,7 @@ const Home = () => {
                         <h2
                         className="font-bold text-[30px] m-0 text-grade "
                         >
-                            3d View
+                            3D View
                         </h2>
                     </motion.header>
 
@@ -45,7 +45,7 @@ const Home = () => {
 
                         <motion.div
                         {...headContentAnimation}
-                        className="flex flex-col gap-8"
+                        className="flex flex-col md:gap-4 gap-9"
                         >
                             <p
                             className="max-w-md font-normal text-black md:text-lg text-[22px]"
