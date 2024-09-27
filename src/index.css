@@ -24,11 +24,11 @@ html {
 }
 
 .home-content {
-  @apply flex-1 xl:justify-center justify-start flex flex-col gap-10;
+  @apply flex-1 xl:justify-center justify-start flex flex-col sm:gap-0 gap-6;
 }
 
 .head-text {
-  @apply xl:text-[10rem] text-[5.4rem] xl:leading-[11rem] leading-[7rem] font-black text-black;
+  @apply xl:text-[8rem] text-[5rem] xl:leading-[11rem] leading-[7rem] font-black text-black;
 }
 
 .download-btn {

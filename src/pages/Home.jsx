@@ -27,7 +27,7 @@ const Home = () => {
                         className="w-10 h-10 object-contain"
                         />
                         <h2
-                        className="font-bold text-[30px] m-0 text-grade "
+                        className="font-bold text-[28px] m-0 text-grade "
                         >
                             3D View
                         </h2>
@@ -48,7 +48,7 @@ const Home = () => {
                         className="flex flex-col md:gap-4 gap-9"
                         >
                             <p
-                            className="max-w-md font-normal text-black md:text-lg text-[22px]"
+                            className="max-w-md font-normal text-black md:text-lg text-base"
                             >
                                 Create your own unique and exclusive shirt with our
                                 brand-new 3D customization tool. <strong> Unleash your
